@@ -1,0 +1,14 @@
+﻿# IDE
+.vscode/
+.vs/
+
+# .NET build artifacts
+**/bin/
+**/obj/
+
+# Node modules
+**/node_modules/
+
+# Laravel
+**/vendor/
+**/.env
