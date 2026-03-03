@@ -12,3 +12,5 @@
 # Laravel
 **/vendor/
 **/.env
+
+.fake
